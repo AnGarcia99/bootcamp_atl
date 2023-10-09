@@ -1,0 +1,8 @@
+{
+  "category": "Ciencia",
+  "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+  "options": ["Oxígeno", "Silicio", "Hierro", "Aluminio"],
+  "answer": 0,
+  "explanation": "El oxígeno es el elemento más abundante en la corteza terrestre, constituyendo aproximadamente el 46% de la masa de la corteza."
+
+}
